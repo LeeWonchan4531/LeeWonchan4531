@@ -38,4 +38,5 @@ Portfolio: https://wonchan.net <br>
 Gallery: https://gallery.wonchan.net <br>
 Blog: https://blog.wonchan.net <br>
 Download: https://download.wonchan.net or https://download1.wonchan.net
+My Server Status: https://status.wonchan.net
 </p>
