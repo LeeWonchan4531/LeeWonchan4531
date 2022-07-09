@@ -15,16 +15,6 @@
 
 <br>
 
-<h3 align="center">🪄 Blog 🪄</h3>
-
-<div align="center" style="text-align:center">
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wonchan4531)](https://velog.io/@wonchan4531)
-  
-</div>
-  
-<br>
-
 
 <h3 align="center"> 💕Contact💕  </h3>
 <p align="center">
