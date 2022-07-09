@@ -24,9 +24,6 @@
 <br>
 <h3 align="center"> 🌏WebSite🌏 </h3>
  <p align="center">
-Portfolio: https://wonchan.net <br>
-Gallery: https://gallery.wonchan.net <br>
-Blog: https://blog.wonchan.net <br>
-Download: https://download.wonchan.net or https://download1.wonchan.net <br>
+My Static Server: https://static-cdn.wonchan.net <br>
 My Server Status: https://status.wonchan.net
 </p>
