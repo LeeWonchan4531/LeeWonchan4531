@@ -26,5 +26,6 @@
  <p align="center">
   My Portfolio: https://wonchan.net <br>
 My Blog: https://blog.wonchan.net <br>
-My Server Status: https://status.wonchan.net
+My Server Status: https://status.wonchan.net <br>
+Wonchan's Linux mirror Server: https://mirror.wonchan.net
 </p>
