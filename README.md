@@ -27,5 +27,5 @@
   My Portfolio: https://wonchan.net <br>
 My Blog: https://blog.wonchan.net <br>
 My Server Status: https://status.wonchan.net <br>
-Wonchan's Linux mirror Server: https://mirror.wonchan.net
+SearchAI: https://Searchai.me
 </p>
