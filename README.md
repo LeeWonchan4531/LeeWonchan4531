@@ -32,10 +32,12 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </p>
 <br>
-<h3> 🌏WebSite🌏 </h3>
- <p>
-  My Portfolio: https://www.wonchan.net <br>
-My Blog: https://velog.io/@leewonchan <br>
-My Server Status: https://status.jeonnam.school <br>
-Upcoin: https://www.upcoin.kr
-</p>
+<h3>My Services</h3>
+
+My Portfolio: [https://www.wonchan.net](https://www.wonchan.net) <br>
+My Blog: [https://velog.io/@leewonchan](https://velog.io/@leewonchan) <br>
+My Service Status: [https://status.jeonnam.school](https://status.jeonnam.school) <br>
+My idc Status: [https://idc.jeonnam.school](https://idc.jeonnam.school) <br>
+Linux Mirror: [https://mirror.jeonnam.school](https://mirror.jeonnam.school) <br>
+Upcoin: [https://www.upcoin.kr](https://www.upcoin.kr)
+
