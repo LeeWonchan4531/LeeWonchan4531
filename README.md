@@ -6,16 +6,20 @@
 <p> Techs that I've used at least once </p>
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MySql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Linux-E6B91E?style=for-the-badge&logo=Linux&logoColor=black"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> &nbsp
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/MySql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Linux-E6B91E?style=for-the-badge&logo=Linux&logoColor=black"/>&nbsp 
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp
 </p>
 
 <br>
@@ -23,9 +27,9 @@
 
 <h3> 💕Contact💕  </h3>
 <p>
-  <a href="mailto:wonchan@wonchan.net"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=antara7295@gmail.com"/></a>
+  <a href="mailto:wonchan@wonchan.net"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=antara7295@gmail.com"/>
     <a href="https://www.instagram.com/wonchan.dev/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </p>
 <br>
 <h3> 🌏WebSite🌏 </h3>
